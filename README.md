@@ -9,5 +9,4 @@
 - 👯 I’m looking to collaborate on engineering projects related to data analysis
 - 🤔 I’m looking for help with python
 - 💬 Ask me about mechanical design, manufacturing and supply chain
-- 📫 How to reach me: Linked
 - 😄 Pronouns: He/Him
